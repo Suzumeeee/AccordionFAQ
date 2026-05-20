@@ -21,4 +21,4 @@ A simple Accordion FAQ project built using HTML, CSS, and JavaScript.
 
 ## Author
 
-SHeetal
+Sheetal
